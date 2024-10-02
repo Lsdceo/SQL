@@ -1,1 +1,0 @@
-select titulo, duracao_do_filme, classificacao from filme where duracao_do_filme > 100 and classificacao like 'G'
