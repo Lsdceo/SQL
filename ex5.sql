@@ -1,0 +1,1 @@
+select * from filme; update filme set ano_de_lancamento = 2007 where titulo like 'B%'

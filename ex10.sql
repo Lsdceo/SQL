@@ -1,0 +1,1 @@
+select idioma_id, nome from idioma where nome = 'German'; update filme set idioma_id = 6 where preco_da_locacao > 4

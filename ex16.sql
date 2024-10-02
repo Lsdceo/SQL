@@ -1,0 +1,1 @@
+select filme_id, count(ator_id) as atores from filme_ator group by filme_id order by atores asc

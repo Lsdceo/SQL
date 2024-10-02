@@ -1,0 +1,1 @@
+select filme_id, count(ator_id) as atores from filme_ator group by filme_id having atores > 5 order by atores desc

@@ -1,0 +1,1 @@
+select idioma_id, nome from idioma where nome = 'Japanese'; update filme set idioma_id = 3 where preco_da_locacao = 0.99
