@@ -1,0 +1,3 @@
+SELECT * FROM convidado c 
+INNER JOIN presente p
+ ON c.ID_CONVIDADO = p.ID_CONVIDADO;
